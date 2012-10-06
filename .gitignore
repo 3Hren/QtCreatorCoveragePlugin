@@ -1,0 +1,12 @@
+/bin
+/coverage
+.directory
+*.autosave
+Makefile*
+
+*.o
+moc_*
+qrc_*
+
+*.pro.user
+*.*~
