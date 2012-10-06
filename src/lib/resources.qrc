@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/minus.png</file>
+        <file>images/plus.png</file>
+        <file>images/run.png</file>
+        <file>images/stop.png</file>
+        <file>images/headers.png</file>
+        <file>images/sources.png</file>
+        <file>images/qt_project.png</file>
+        <file>images/render.png</file>
+    </qresource>
+    <qresource prefix="/animation">
+        <file>images/loading.gif</file>
+    </qresource>
+</RCC>
